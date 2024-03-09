@@ -4,6 +4,9 @@
     "description": "Checking website and server uptime and looking for downed websites with nodejs (Multi website)",
     "main": "index.js",  
     "author": "rizkytegar",
+     "scripts": {
+        "test": "node /__tests__/integration.js", 
+      },
     "dependencies": {
       "node-fetch": "^3.3.2"
     },
