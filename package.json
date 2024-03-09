@@ -1,6 +1,6 @@
 {
     "name": "node-http-fetchers",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Checking website and server uptime and looking for downed websites with nodejs (Multi website)",
     "main": "index.js",  
     "author": "rizkytegar",
