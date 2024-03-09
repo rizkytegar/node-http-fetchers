@@ -6,7 +6,7 @@ Checking website and server uptime and looking for downed websites with nodejs (
 # install
 Install Module
 ```bash
-npm install node-http-fetcher
+npm install node-http-fetchers
 ``` 
 # Setting URL or IP
 Add the URL or IP of the server you want to test to the url list
