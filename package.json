@@ -8,7 +8,8 @@
            "test": "node __tests__/integration.js"
       },
     "dependencies": {
-      "node-fetch": "^3.3.2"
+      "node-fetch": "^3.3.2",
+      "node-http-fetchers": "1.0.6"
     },
     "repository": {
       "type": "git",
