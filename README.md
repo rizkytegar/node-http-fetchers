@@ -2,7 +2,7 @@
 Checking website and server uptime and looking for downed websites with nodejs (Multi website).
 
 # Detail
-![https://raw.githubusercontent.com/rizkytegar/node-http-fetchers/master/test/test.png](https://raw.githubusercontent.com/rizkytegar/node-http-fetchers/master/test/test.png)
+![https://raw.githubusercontent.com/rizkytegar/node-http-fetchers/master/image/test.png](https://raw.githubusercontent.com/rizkytegar/node-http-fetchers/master/image/test.png)
 # install
 Install Module
 ```bash
